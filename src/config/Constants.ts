@@ -1,4 +1,5 @@
 //deveria ser feito de outra maneira por questões de segurança, aqui apenas para exemplo
+//user eXP possui privilégios limitados 
 
 export const config = {
   API_URL: 'http://localhost:5000',
